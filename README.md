@@ -1,4 +1,4 @@
-# 🌑 Mayhem: The True Black Metal Dashboard
+# Mayhem: The True Black Metal Dashboard
 
 Este projeto é uma aplicação de Business Intelligence (BI) imersiva dedicada à história e discografia da lendária banda de Black Metal norueguês, **Mayhem**. O dashboard combina engenharia de dados, visualizações interativas e uma atmosfera multimídia para explorar a linhagem do caos da banda.
 
