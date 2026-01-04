@@ -54,4 +54,4 @@ Adição de filtros reativos e uma barra de busca para facilitar a navegação p
 
 1. Clone o repositório:
    ```bash
-  git clone https://github.com/BiaAbaaoud/mayhem-ritual-dash.git
+  git clone https://github.com/BiaAbaaoud/Mayhem---Linhagem-do-Caos.git
